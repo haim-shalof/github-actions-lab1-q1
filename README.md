@@ -1,3 +1,3 @@
 # GitHub Actions Lab 1
 
-## new line for lab etstt
+## New added line for Lab title
